@@ -1,0 +1,3 @@
+displayName = Rubblemaker Expanded
+author = Klobber
+version = 0.1
